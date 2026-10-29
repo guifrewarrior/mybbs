@@ -6,7 +6,7 @@
    60  rem himsg=current last msg in message file
    70  rem recnum=pointer to record in file for subs
    80  files$="mybbsusers.dat"
-   90  print "Welcome to Jadawin's place"
+   90  print "Welcome to linuxeans"
   100  print
   110  print "Username: ";
   120  usr$=user$:print usr$:REM input usr$:rem DEBUG ONLY
